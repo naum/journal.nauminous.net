@@ -3,8 +3,8 @@ layout: post
 title: About
 ---
 
-The *Tufte-Jekyll* theme is a natural extension of the work done by [Dave Leipmann](https://github.com/daveliepmann/tufte-css) on Github that created a CSS file that allows web writers to use the simple and elegant style employed by Edward Tufte in his published materials.
+{% marginfigure /assets/img/naum_avatar250.jpg '' %}
 
-To incorporate these styles into a Jekyll theme, I have made some very slight modifications that attempt to maintain the feel of the CSS styles in this repo.
+Essays on politics, computers, technology, radio, Arizona, science, justice, war, world affairs, globalization, economics, games, design, sports, history, comics, psychology, philosophy, religion and any other interesting tidbits I stumble about on the internets or bits that leak out from the deep recesses of my thought laden mind.
 
-You can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
+I am Naum, amateur writer and rabble rouser, professional programmer and website developer. I have a degree in Computer Science, and that renders me totally unqualified to lecture on any subject other than programming computing machines or the sublime sport of baseball.
