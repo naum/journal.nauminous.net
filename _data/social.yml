@@ -2,5 +2,5 @@
   icon: icon-twitter
 - link: //github.com/naum 
   icon: icon-github
-- link: /feed 
+- link: /feed.xml
   icon: icon-feed
